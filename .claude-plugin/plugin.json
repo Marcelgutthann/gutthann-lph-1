@@ -1,0 +1,10 @@
+{
+  "name": "lph-1",
+  "description": "Erstellt LPH 1 Grundlagenermittlungsberichte nach HOAI Paragraph 33 automatisch aus dem Projektordner",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcel Gutthann",
+    "email": "info@gutthann-hiw-architekten.de"
+  },
+  "homepage": "https://github.com/Marcelgutthann/gutthann-lph-1"
+}
